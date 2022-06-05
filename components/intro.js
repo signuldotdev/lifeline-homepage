@@ -8,19 +8,12 @@ export default function Intro() {
         Lifeline.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A statically generated blog example using{" "}
+        An Healthcare Application - Case Study || More on{" "}
         <a
-          href="https://nextjs.org/"
+          href="https://www.figma.com/community/file/1104722212846323572"
           className="underline hover:text-success duration-200 transition-colors"
         >
-          Next.js
-        </a>{" "}
-        and{" "}
-        <a
-          href="https://vercel.com/"
-          className="underline hover:text-success duration-200 transition-colors"
-        >
-          Lifeline
+          Figma
         </a>
         .
       </h4>

@@ -7,26 +7,21 @@ export default function HeroPost({}) {
     <section>
       <div className="mb-8 md:mb-16">
         <Image alt="Lifeline Cover" src={LifelineCover} layout="responsive" />
-        <h3 className="mb-4 text-4xl font-bold tracking-tight leading-tight text-center md:text-left">
-          An healthcare application for the digital age - with Next.js{" "}
+        <h3 className="mt-6 text-4xl font-bold tracking-tight leading-tight text-center md:text-left">
+          Lifeline: An Healthcare Solution
         </h3>
       </div>
       <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
         <div>
-          <div className="mb-4 md:mb-0 text-lg">
+          <div className="md:mb-0 text-lg">
             <h2>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit hoc
-              ultimum bonorum, quod nunc a me defenditur; Vitae autem degendae
-              ratio maxime quidem illis placuit quieta. Duo Reges: constructio
-              interrete. Nam quid possumus facere melius?
+              An application platform which provide hospital booking and other
+              healthcare services. Lifeline connects patient and hospital in
+              just 30+ seconds (search,book & pay). By using advance serach
+              functionality users can search by (disease, symptoms & cause of
+              illness).
             </h2>
           </div>
-        </div>
-        <div>
-          <div
-            className="text-lg leading-relaxed mb-4"
-            title="Lifeafkjslfaskl"
-          />
         </div>
       </div>
     </section>
