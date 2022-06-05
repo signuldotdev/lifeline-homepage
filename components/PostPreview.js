@@ -8,11 +8,7 @@ export default function PostPreview() {
       <div className="mb-5">
         <Image alt="Lifeline Cover" src={LifelineCover} title="Lifeline" />
       </div>
-      <h3 className="text-3xl mb-3 leading-snug">
-        <Link href={LifelineCover}>
-          <a className="hover:underline" title="Lifeline"></a>
-        </Link>
-      </h3>
+
       <div className="text-3xl mb-4">
         <h1 className="mb-4">Lifeline - An healthcare Application</h1>
         <p className="text-lg">
