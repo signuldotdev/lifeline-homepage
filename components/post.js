@@ -2,14 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import LifelineCover from "../public/LifelineCover.png";
 
-export default function HeroPost({
-  title,
-  coverImage,
-  date,
-  excerpt,
-  author,
-  slug,
-}) {
+export default function HeroPost({}) {
   return (
     <section>
       <div className="mb-8 md:mb-16">
