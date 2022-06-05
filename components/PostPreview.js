@@ -2,7 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import LifelineCover from "../public/LifelineCover.png";
 
-export default function PostPreview({ title = "Lorem ipsum", excerpt }) {
+export default function PostPreview() {
   return (
     <div>
       <div className="mb-5">
