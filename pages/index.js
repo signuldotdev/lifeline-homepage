@@ -2,10 +2,10 @@ import Head from "next/head";
 import Image from "next/image";
 import styles from "../styles/Home.module.css";
 import Alert from "../components/Alert";
-import Container from "../components/Container";
-import Intro from "../components/Alert";
+import Container from "../components/container";
+import Intro from "../components/intro";
 import Post from "../components/post";
-import MoreStories from "../components/MoreStories";
+import MoreStories from "../components/more-stories";
 import Footer from "../components/Footer";
 
 export default function Home() {

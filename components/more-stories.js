@@ -1,4 +1,4 @@
-import PostPreview from "./PostPreview";
+import PostPreview from "./post-preview";
 import UberThumbnail from "../public/uberthumbnail.png";
 
 export default function MoreStories() {
