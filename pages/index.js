@@ -1,6 +1,12 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+import Head from "next/head";
+import Image from "next/image";
+import styles from "../styles/Home.module.css";
+import Intro from "../components/Intro";
+import Container from "../components/Container";
+import Footer from "../components/footer";
+import Post from "../components/post";
+import MoreStories from "../components/more-stories";
+import Alert from "../components/alert";
 
 export default function Home() {
   return (
@@ -11,7 +17,15 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>
+      <Container>
+        <Alert />
+        <Intro />
+        <Post />
+        <MoreStories />
+        <Footer />
+      </Container>
+
+      {/* <main className={styles.main}>
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
@@ -50,7 +64,7 @@ export default function Home() {
             </p>
           </a>
         </div>
-      </main>
+      </main> */}
 
       <footer className={styles.footer}>
         <a
@@ -58,12 +72,12 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
+          Powered by{" "}
           <span className={styles.logo}>
             <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
           </span>
         </a>
       </footer>
     </div>
-  )
+  );
 }
