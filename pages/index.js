@@ -1,12 +1,12 @@
 import Head from "next/head";
 import Image from "next/image";
 import styles from "../styles/Home.module.css";
-import Alert from "../components/Alert";
+import Alert from "../components/alert";
 import Container from "../components/container";
 import Intro from "../components/intro";
 import Post from "../components/post";
 import MoreStories from "../components/more-stories";
-import Footer from "../components/Footer";
+import Footer from "../components/footer";
 
 export default function Home() {
   return (
