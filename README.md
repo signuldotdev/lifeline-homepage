@@ -1,34 +1,61 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[![Watch the video]('./../public/youtube.png)](https://www.youtube.com/embed/lCYfiN6_GCE)
 
-## Getting Started
+## 🎬 Idealistic Stage Startup: Lifeline - An Healthcare Application
 
-First, run the development server:
+<div align="center">
+    <img src='./public/logo.png' width="250" alt='Move with Safety'>
+    <h6>An Healthcare Application</h5>
+        Logo made using <a href='https://www.figma.com/'>Figma</a>
+<div>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+</br>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<div align="left">
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## 🧑🏻‍💻 Story
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Develop a prototype that could provide searching, booking, and payment options that helps patient and the hospital.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+</div>
 
-## Learn More
+</br>
 
-To learn more about Next.js, take a look at the following resources:
+## 🍥 UI Design
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<div align="center">
+    <img src='./public/figmalogo.png' width="100" >
+    <h6>Figma</h6>
+        Check out <a href='https://www.figma.com/community/file/1104722212846323572/'>UI build + Prototype</a>
+<div>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 📱 Snapshot
 
-## Deploy on Vercel
+<div align="left">
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<p>
+    <img src='./public/lifeline-01.png'>
+    <img src='./public/lifeline-02.png'>
+</p>
+</div>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 📚 Lifeline Pitch Deck
+
+</br>
+
+<div align="center">
+    <img src='./public/logo.png' width="250" alt='Move with Safety'>
+    <h6>An Healthcare Application</h5>
+        Check out <a href='https://github.com/signuldotdev/lifeline-homepage/blob/main/public/Lifeline%20Pitch%20Deck.pdf'>Lifeline Pitch Deck</a>
+<div>
+
+</br>
+
+---
+
+<div align="center">
+    <h4>Made by</h4>
+    <img src='./public/sanket.png' width="50" alt='Move with Safety'>
+    <h4>Sanket Meshram</h4>
+<div>
+
+---
